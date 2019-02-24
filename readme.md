@@ -1,0 +1,1 @@
+This repository contains all the work and the projects that I have done to complete this Nanodegree along with the projects.
